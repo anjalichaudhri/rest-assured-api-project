@@ -57,6 +57,8 @@ public class PutExamples {
 	
 	@Test
 	public void testDelete() {
+		//this is to test delete api data using rest assured
+		
 		baseURI = "https://reqres.in";
 
 		when()
