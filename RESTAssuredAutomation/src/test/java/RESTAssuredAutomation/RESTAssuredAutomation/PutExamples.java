@@ -34,6 +34,7 @@ public class PutExamples {
 	
 	@Test
 	public void testPatch() {
+		// this is to test the patch request
 
 		JSONObject request = new JSONObject();
 
